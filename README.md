@@ -16,5 +16,5 @@ Directing corporate operations, strategic management, and business process devel
 - Organizational Structure & B2B Partnerships
 
 ### 📬 Contact & Inquiries
-- **Entity:** KKAgency Corp.
+- **Entity:** [KKAgency Corp.](https://github.com/KKAgencyCorp)
 - **GitHub:** [@krystiankorolczuk](https://github.com/krystiankorolczuk)
