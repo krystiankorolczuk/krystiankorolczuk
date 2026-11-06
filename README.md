@@ -17,4 +17,4 @@ Directing corporate operations, strategic management, and business process devel
 
 ### 📬 Contact & Inquiries
 - **Entity:** KKAgency Corp.
-- **GitHub:** [@adevcloud](https://github.com/adevcloud)
+- **GitHub:** [@krystiankorolczuk](https://github.com/krystiankorolczuk)
